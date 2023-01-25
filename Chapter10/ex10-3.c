@@ -6,7 +6,7 @@ int main(void)
 	int *pa = ary;
 	int i;
 
-	printf("¹è¿­ÀÇ °ª: ");
+	printf("Â¹Ã¨Â¿Â­Ã€Ã‡ Â°Âª: ");
 	for (i = 0; i < 3; i++)
 	{
 		printf("%d ", *pa);
